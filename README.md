@@ -20,5 +20,5 @@ Scripts:
         genetic_interactions.py: Gets the number of genetic interactions for each gene.
         protein_interactions.py: Gets the number of PPIs for each identifier.
 
-    Preprocessing, Differential Expression, Gene Origin and Pathway Analysis:
+    Preprocessing, Differential Expression, Gene Origin, Number of Interactions and Pathway Analysis:
         DEAedgeR.R: Analyzes differential expression, gene origin, pathways, interaction counts, and more.
